@@ -11,6 +11,9 @@
 .nav-links a{
     margin-left: 4%; color: whitesmoke;
 }
+.nav-links a :hover{
+    color: aquamarine; border-bottom: 0.5px solid aquamarine; border-radius: 1pc;
+}
 .d-flex{
      width: 20pc;
 }
@@ -23,10 +26,14 @@
    margin-top: -41pc;
 }
 .login{
-    color: rgb(197, 197, 197); font-size: 2pc; margin-right: 4pc;margin-left: 2pc;
+    color: rgb(214, 214, 214); font-size: 2pc; margin-right: 4pc;margin-left: 2pc;
 }
 .name{
     margin-right: 45pc; margin-top: -24pc; letter-spacing: 1px; font-size: 2.5pc;font-family: monospace; font-style: oblique;
+}
+.name:hover{
+    color: aquamarine; border-bottom: 1px solid aquamarine; 
+    border-radius: 1pc; border-top: 1px solid aquamarine;
 }
 .movie-desc{
     margin-right: 45pc; display:flex; width: 100%;

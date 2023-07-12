@@ -18,11 +18,157 @@ export default function Swacth() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://mamul.am/images/pics/230606/bekijk-hd-to-catch-a-u127157-1.jpg"
+                        src="https://www.joblo.com/wp-content/uploads/2023/03/to-catch-a-killer-poster-featured.jpg"
                         alt="First slide"
                     />
                     <Carousel.Caption>
                         <h1 className='name'> To Catch A Killer</h1>
+                        <div className='movie-desc'>
+                            <h5><span>H D </span></h5><h5>Duration : 1100 mins</h5>  <h5>MDB : 6.97 </h5>
+                            <h5>Genre : Action, Crime, Thriller</h5>
+                        </div>
+                        <MDBBtn outline rounded color='success' className='watch-btn'>
+                            <FaPlay />  Watch Now
+                        </MDBBtn>
+                        <div className='links'>
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#3b5998' }} href='#'>
+                                <FaFacebook /> Facebook
+                            </MDBBtn>
+
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#55acee' }} href='#'>
+                                <FaTwitter /> Twitter
+                            </MDBBtn>
+
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#dd4b39' }} href='#'>
+                                <FaGooglePlus /> Google
+                            </MDBBtn>
+
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#ac2bac' }} href='#'>
+                                <FaInstagram /> Instagram
+                            </MDBBtn>
+
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#0082ca' }} href='#'>
+                                <FaLinkedin /> Linkedin
+                            </MDBBtn>
+
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#c61118' }} href='#'>
+                                <FaPinterest /> Pinterest
+                            </MDBBtn>
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#ed302f' }} href='#'>
+                                <FaYoutube/> Youtube
+                            </MDBBtn>
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#25d366' }} href='#'>
+                                <FaWhatsapp/> Whatsapp
+                            </MDBBtn>
+                        </div>
+                    </Carousel.Caption>
+                </Carousel.Item>
+                <Carousel.Item>
+                    <img
+                        className="d-block w-100"
+                        src="https://images.hdqwalls.com/wallpapers/the-batman-2022-movie-poster-art-cy.jpg"
+                        alt="Second slide"
+                    />
+
+                    <Carousel.Caption>
+                    <h1 className='name'> The Batman 2023</h1>
+                        <div className='movie-desc'>
+                            <h5><span>H D </span></h5><h5>Duration : 1100 mins</h5>  <h5>MDB : 6.97 </h5>
+                            <h5>Genre : Action, Thriller</h5>
+                        </div>
+                        <MDBBtn outline rounded color='success' className='watch-btn'>
+                            <FaPlay />  Watch Now
+                        </MDBBtn>
+                        <div className='links'>
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#3b5998' }} href='#'>
+                                <FaFacebook /> Facebook
+                            </MDBBtn>
+
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#55acee' }} href='#'>
+                                <FaTwitter /> Twitter
+                            </MDBBtn>
+
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#dd4b39' }} href='#'>
+                                <FaGooglePlus /> Google
+                            </MDBBtn>
+
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#ac2bac' }} href='#'>
+                                <FaInstagram /> Instagram
+                            </MDBBtn>
+
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#0082ca' }} href='#'>
+                                <FaLinkedin /> Linkedin
+                            </MDBBtn>
+
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#c61118' }} href='#'>
+                                <FaPinterest /> Pinterest
+                            </MDBBtn>
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#ed302f' }} href='#'>
+                                <FaYoutube/> Youtube
+                            </MDBBtn>
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#25d366' }} href='#'>
+                                <FaWhatsapp/> Whatsapp
+                            </MDBBtn>
+                        </div>
+                    </Carousel.Caption>
+                </Carousel.Item>
+                <Carousel.Item>
+                    <img
+                        className="d-block w-100"
+                        src="https://hindi.startupfounder.in/wp-content/uploads/2023/01/Tractor-Trolley-Grant-Scheme-2023-22.jpg"
+                        alt="Third slide"
+                    />
+
+                    <Carousel.Caption>
+                    <h1 className='name'> PATHAAN 2023</h1>
+                        <div className='movie-desc'>
+                            <h5><span>H D </span></h5><h5>Duration : 1100 mins</h5>  <h5>MDB : 6.97 </h5>
+                            <h5>Genre : Crime, Thriller</h5>
+                        </div>
+                        <MDBBtn outline rounded color='success' className='watch-btn'>
+                            <FaPlay />  Watch Now
+                        </MDBBtn>
+                        <div className='links'>
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#3b5998' }} href='#'>
+                                <FaFacebook /> Facebook
+                            </MDBBtn>
+
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#55acee' }} href='#'>
+                                <FaTwitter /> Twitter
+                            </MDBBtn>
+
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#dd4b39' }} href='#'>
+                                <FaGooglePlus /> Google
+                            </MDBBtn>
+
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#ac2bac' }} href='#'>
+                                <FaInstagram /> Instagram
+                            </MDBBtn>
+
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#0082ca' }} href='#'>
+                                <FaLinkedin /> Linkedin
+                            </MDBBtn>
+
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#c61118' }} href='#'>
+                                <FaPinterest /> Pinterest
+                            </MDBBtn>
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#ed302f' }} href='#'>
+                                <FaYoutube/> Youtube
+                            </MDBBtn>
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#25d366' }} href='#'>
+                                <FaWhatsapp/> Whatsapp
+                            </MDBBtn>
+                        </div>
+                    </Carousel.Caption>
+                </Carousel.Item>
+                <Carousel.Item>
+                    <img
+                        className="d-block w-100"
+                        src="https://www.geekgirlauthority.com/wp-content/uploads/2019/04/AE-Poster-Posse-1-1200x640.jpg"
+                        alt="First slide"
+                    />
+                    <Carousel.Caption>
+                    <h1 className='name'> Avengers Endgame 2021</h1>
                         <div className='movie-desc'>
                             <h5><span>H D </span></h5><h5>Duration : 1100 mins</h5>  <h5>MDB : 6.97 </h5>
                             <h5>Genre : Action,Crime,Thriller</h5>
@@ -66,12 +212,50 @@ export default function Swacth() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://www.pixelstalk.net/wp-content/uploads/2016/07/1080p-Movie-Images-Free-Download.jpg"
+                        src="https://images.hdqwalls.com/wallpapers/bthumb/the-flash-movie-fanart-3v.jpg"
                         alt="Second slide"
                     />
 
                     <Carousel.Caption>
+                    <h1 className='name'> The Flash 2023 </h1>
+                        <div className='movie-desc'>
+                            <h5><span>H D </span></h5><h5>Duration : 1100 mins</h5>  <h5>MDB : 6.97 </h5>
+                            <h5>Genre : Action,Crime,Thriller</h5>
+                        </div>
+                        <MDBBtn outline rounded color='success' className='watch-btn'>
+                            <FaPlay />  Watch Now
+                        </MDBBtn>
+                        <div className='links'>
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#3b5998' }} href='#'>
+                                <FaFacebook /> Facebook
+                            </MDBBtn>
 
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#55acee' }} href='#'>
+                                <FaTwitter /> Twitter
+                            </MDBBtn>
+
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#dd4b39' }} href='#'>
+                                <FaGooglePlus /> Google
+                            </MDBBtn>
+
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#ac2bac' }} href='#'>
+                                <FaInstagram /> Instagram
+                            </MDBBtn>
+
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#0082ca' }} href='#'>
+                                <FaLinkedin /> Linkedin
+                            </MDBBtn>
+
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#c61118' }} href='#'>
+                                <FaPinterest /> Pinterest
+                            </MDBBtn>
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#ed302f' }} href='#'>
+                                <FaYoutube/> Youtube
+                            </MDBBtn>
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#25d366' }} href='#'>
+                                <FaWhatsapp/> Whatsapp
+                            </MDBBtn>
+                        </div>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -82,39 +266,45 @@ export default function Swacth() {
                     />
 
                     <Carousel.Caption>
+                    <h1 className='name'> Howard Pots 07 </h1>
+                        <div className='movie-desc'>
+                            <h5><span>H D </span></h5><h5>Duration : 1100 mins</h5>  <h5>MDB : 6.97 </h5>
+                            <h5>Genre : Action,Crime,Thriller</h5>
+                        </div>
+                        <MDBBtn outline rounded color='success' className='watch-btn'>
+                            <FaPlay />  Watch Now
+                        </MDBBtn>
+                        <div className='links'>
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#3b5998' }} href='#'>
+                                <FaFacebook /> Facebook
+                            </MDBBtn>
 
-                    </Carousel.Caption>
-                </Carousel.Item>
-                <Carousel.Item>
-                    <img
-                        className="d-block w-100"
-                        src="https://mamul.am/images/pics/230606/bekijk-hd-to-catch-a-u127157-1.jpg"
-                        alt="First slide"
-                    />
-                    <Carousel.Caption>
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#55acee' }} href='#'>
+                                <FaTwitter /> Twitter
+                            </MDBBtn>
 
-                    </Carousel.Caption>
-                </Carousel.Item>
-                <Carousel.Item>
-                    <img
-                        className="d-block w-100"
-                        src="https://www.pixelstalk.net/wp-content/uploads/2016/07/1080p-Movie-Images-Free-Download.jpg"
-                        alt="Second slide"
-                    />
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#dd4b39' }} href='#'>
+                                <FaGooglePlus /> Google
+                            </MDBBtn>
 
-                    <Carousel.Caption>
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#ac2bac' }} href='#'>
+                                <FaInstagram /> Instagram
+                            </MDBBtn>
 
-                    </Carousel.Caption>
-                </Carousel.Item>
-                <Carousel.Item>
-                    <img
-                        className="d-block w-100"
-                        src="https://www.pixelstalk.net/wp-content/uploads/2016/07/1080p-Movie-Wallpapers-Free-Download.jpg"
-                        alt="Third slide"
-                    />
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#0082ca' }} href='#'>
+                                <FaLinkedin /> Linkedin
+                            </MDBBtn>
 
-                    <Carousel.Caption>
-
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#c61118' }} href='#'>
+                                <FaPinterest /> Pinterest
+                            </MDBBtn>
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#ed302f' }} href='#'>
+                                <FaYoutube/> Youtube
+                            </MDBBtn>
+                            <MDBBtn className='m-1' style={{ backgroundColor: '#25d366' }} href='#'>
+                                <FaWhatsapp/> Whatsapp
+                            </MDBBtn>
+                        </div>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>
